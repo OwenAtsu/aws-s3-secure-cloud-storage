@@ -1,4 +1,4 @@
-# Secure Cloud File Storage Using Amazon S3
+ # Secure Cloud File Storage Using Amazon S3
 
 ## Project Overview
 
@@ -120,9 +120,9 @@ Completed foundational Amazon S3 storage and security configuration, versioning 
 
 The following screenshots show the AWS S3 configurations and hands-on exercises completed during this project.
 
-1. [S3 Versioning](Screenshots/01-s3-versioning.png)
-2. [S3 Default Encryption](Screenshots/02-s3-default-encryption.png)
-3. [S3 Block Public Access](Screenshots/03-s3-block-public-access.png)
-4. [S3 Bucket Policy](Screenshots/04-s3-bucket-policy.png)
-5. [S3 Lifecycle Rule](Screenshots/05-s3-lifecycle-rule.png)
-6. [S3 Object Version Details](Screenshots/06-s3-object-version-details.png)
+1. [S3 Versioning](Screenshots/01-s3-versioning.png.png)
+2. [S3 Default Encryption](Screenshots/02-s3-default-encryption.png.png)
+3. [S3 Block Public Access](Screenshots/03-s3-block-public-access.png.png)
+4. [S3 Bucket Policy](Screenshots/04-s3-bucket-policy.png.png)
+5. [S3 Lifecycle Rule](Screenshots/05-s3-lifecycle-rule.png.png)
+6. [S3 Object Version Details](Screenshots/06-s3-object-version-details.png.png)
